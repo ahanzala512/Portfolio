@@ -99,6 +99,9 @@ nav{
 }
 
 @media(max-width:768px){
+    #hero{
+        min-width:fit-content;
+    }
     nav{
         padding:8px;
         font-size:0.6rem;
