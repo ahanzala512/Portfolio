@@ -112,7 +112,7 @@ nav{
         font-size:0.3rem;
         text-align:center;
     }
-    img{
+    .hero-image{
         width:200px;
         height:200px;
         position:relative;
