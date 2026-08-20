@@ -193,6 +193,7 @@ nav{
 
 @media(max-width:786px){
     #skills{
+        padding:12% 5%;
         flex-direction: column;
     }
     .skill-content{
@@ -264,7 +265,7 @@ nav{
         
         flex-direction:column;
         align-items: center;
-        
+        padding:12% 5%;
         width:100%;
         min-height: min-content;
         justify-content: center;
