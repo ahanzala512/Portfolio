@@ -361,6 +361,9 @@ nav{
 }
 
 @media(max-width:768px){
+    #education{
+        padding:12% 5%;
+    }
     .education-container{
         flex-direction:column;
         
